@@ -1,0 +1,25 @@
+{
+    "DebugMode": false,
+    "EnabledGuardTypes": [
+        "Algorithm Corruption", 
+        "Automation Detection", 
+        "Checksum", 
+        "Control Flow Flattening", 
+        "Data Integrity", 
+        "Debug Detection", 
+        "Domain Lock", 
+        "External Hiding", 
+        "Hook Detection", 
+        "Identifier Renaming", 
+        "Minification", 
+        "Numeric Literal Hiding", 
+        "Operator Removal", 
+        "Script Verification", 
+        "String Encryption", 
+        "Web App Integrity"
+    ],
+    "ProtectionManifestVersion": "1.0",
+    "ProtectionSuccessful": true,
+    "ProtectionTool": "Digital.ai Web App Protection",
+    "ProtectionToolVersion": "7.3.0"
+}

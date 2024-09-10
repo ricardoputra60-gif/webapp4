@@ -1,0 +1,36 @@
+{
+    "ApplicationToken": "26cc4359-b0aa-4492-9504-3d6506a96a87",
+    "Guards": [
+        {
+            "Id": 363586,
+            "Name": "WAI Auto Instance"
+        }, 
+        {
+            "Id": 199323,
+            "Name": "SV Auto Instance"
+        }, 
+        {
+            "Id": 425801,
+            "Name": "DL Auto Instance"
+        }, 
+        {
+            "Id": 957932,
+            "Name": "AD Auto Instance"
+        }, 
+        {
+            "Id": 748780,
+            "Name": "HD First Instance"
+        }, 
+        {
+            "Id": 35384,
+            "Name": "DD Auto Instance"
+        }, 
+        {
+            "Id": 720608,
+            "Name": "Checksum"
+        }
+    ],
+    "MappingId": "1a3f953b-361e-50b7-f7b0-3a9e5e225e82",
+    "MappingVersion": 1,
+    "ProtectionTimestamp": 1725257623
+}
